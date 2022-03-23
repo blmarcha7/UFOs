@@ -12,7 +12,7 @@
   Fl was added to the state filter, and you can see all the results in the table are FL UFO sightings.
   You can also add another filter, and shown below, we added in sphere as well, and this filtered the sphere shaped UFO's in FL.
   
-  ![](flsphere.png)
+  ![](flspherefilter.png)
   
   
 ## Summary 
